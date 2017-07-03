@@ -88,8 +88,8 @@ public class ChatActivity extends AppCompatActivity {
                                         rvChat.scrollToPosition(0);
                                     }
                                 });
-                            });
-                        }
+                            }
+                        });
     }
     // Create an anonymous user using ParseAnonymousUtils and set sUserId
     void login() {
